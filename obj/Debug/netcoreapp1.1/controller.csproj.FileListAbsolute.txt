@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/Controllers/bin/Debug/netcoreapp1.1/controller.deps.json
+/Users/Guest/Desktop/Controllers/bin/Debug/netcoreapp1.1/controller.runtimeconfig.json
+/Users/Guest/Desktop/Controllers/bin/Debug/netcoreapp1.1/controller.runtimeconfig.dev.json
+/Users/Guest/Desktop/Controllers/obj/Debug/netcoreapp1.1/controller.AssemblyInfo.cs
+/Users/Guest/Desktop/Controllers/bin/Debug/netcoreapp1.1/controller.dll
+/Users/Guest/Desktop/Controllers/bin/Debug/netcoreapp1.1/controller.pdb
+/Users/Guest/Desktop/Controllers/obj/Debug/netcoreapp1.1/controller.dll
+/Users/Guest/Desktop/Controllers/obj/Debug/netcoreapp1.1/controller.pdb
